@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    
+}
+
+h1 {
+    text-shadow: 2px 2px #00E5FF;
+    color: blue; 
+}
+img {
+    border-radius: 50px;
+    height: 200px;
+    width: 200px;
+}
